@@ -1,0 +1,2 @@
+# yazilimci-seyyah
+code-trails
